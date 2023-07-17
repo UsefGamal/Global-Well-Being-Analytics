@@ -1,5 +1,16 @@
 # Global-Well-Being-Analytics
  Exploring the Relationship between Happiness and Suicidal Rates
+## Countries Report
+
+- `183 countires` on the Suicidal Dataset `[144 Common + 39 Special[ 23 Not In WHR, WHR2021 + 16 Not In WHR2021]]`
+- `165 countires` on the World Happines Report Dataset `[144 Common + 5 Common WHR2021 + 16 Special]`
+- `149 countires` on the WHR Dataset for 2021 `[144 Common + 5 Common WHR]`
+
+> __Angola__,__Belize__,__Bhutan__,__Central African Republic__,__DRCongo__,__Cuba__,__Djibouti__,__Guyana__,__Oman__,__Qatar__,__Somalia__,__South Sudan__,__Sudan__,__Suriname__,__Syria__,__Trinidadand Tobago__ are in WHR but not in WHR 2021\
+
+- `144 Countries` are in both Datasets
+ > __Taiwan__ , __Kosovo__ , __Hong Kong__ , __Palestine__ , __North Cyprus__ are in `WHR`, `WHR2021` but not in `Suicidal` Dataset
+
 ## Six Factors Happiness Report
 `Income, health, having someone to count on, having a sense of freedom to make key life decisions, generosity, and the absence of corruption all play strong roles in supporting life evaluations.`
 
