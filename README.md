@@ -1,6 +1,6 @@
 # Global-Well-Being-Analytics
  Exploring the Relationship between Happiness and Suicidal Rates
-## Countries Report
+## About The Dataset
 
 - `183 countires` on the Suicidal Dataset `[144 Common + 39 Special[ 23 Not In WHR, WHR2021 + 16 Not In WHR2021]]`
 - `165 countires` on the World Happines Report Dataset `[144 Common + 5 Common WHR2021 + 16 Special]`
