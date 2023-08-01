@@ -34,3 +34,6 @@
     - Research shows that in all cultures, starting in early childhood, people are drawn to behaviours which benefit other people.
 6. `Perception of Corruption` : 	“Is corruption widespread throughout the government or not” and  “Is corruption widespread within businesses or not?”
     - Do people trust their governments and have trust in the benevolence of others?
+  
+## ![Life_Ladder_Over_All_Regions involved](4_Extracted_Figures/Life_Ladder_Over_All_by_Regions.png)
+## ![Life_Ladder_Over_All_Regions involved](Suicide_Crude_Over_All_by_Regions.png)
