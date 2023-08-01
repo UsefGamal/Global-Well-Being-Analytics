@@ -1,6 +1,7 @@
 # Global-Well-Being-Analytics
  Exploring the Relationship between Happiness and Suicidal Rates
 ## About The Dataset
+# ![Regions involved in Analytics](4_Extracted_Figures/Observation_Percentages_of_Regions.png)
 
 - `183 countires` on the Suicidal Dataset `[144 Common + 39 Special[ 23 Not In WHR, WHR2021 + 16 Not In WHR2021]]`
 - `165 countires` on the World Happines Report Dataset `[144 Common + 5 Common WHR2021 + 16 Special]`
@@ -11,7 +12,8 @@
 - `144 Countries` are in both Datasets
  > __Taiwan__ , __Kosovo__ , __Hong Kong__ , __Palestine__ , __North Cyprus__ are in `WHR`, `WHR2021` but not in `Suicidal` Dataset
 
-# ![Regions involved in Analytics](4_Extracted_Figures/Observation_Percentages_of_Regions.png)
+## ![Life_Ladder_Over_All_Regions involved](4_Extracted_Figures/Life_Ladder_Over_All_by_Regions.png)
+
 ## Six Factors Happiness Report
 `Income, health, having someone to count on, having a sense of freedom to make key life decisions, generosity, and the absence of corruption all play strong roles in supporting life evaluations.`
 
@@ -35,5 +37,4 @@
 6. `Perception of Corruption` : 	“Is corruption widespread throughout the government or not” and  “Is corruption widespread within businesses or not?”
     - Do people trust their governments and have trust in the benevolence of others?
   
-## ![Life_Ladder_Over_All_Regions involved](4_Extracted_Figures/Life_Ladder_Over_All_by_Regions.png)
 ## ![Life_Ladder_Over_All_Regions involved](4_Extracted_Figures/Suicide_Crude_Over_All_by_Regions.png)
