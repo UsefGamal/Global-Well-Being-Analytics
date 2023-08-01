@@ -36,4 +36,4 @@
     - Do people trust their governments and have trust in the benevolence of others?
   
 ## ![Life_Ladder_Over_All_Regions involved](4_Extracted_Figures/Life_Ladder_Over_All_by_Regions.png)
-## ![Life_Ladder_Over_All_Regions involved](Suicide_Crude_Over_All_by_Regions.png)
+## ![Life_Ladder_Over_All_Regions involved](4_Extracted_Figures/Suicide_Crude_Over_All_by_Regions.png)
