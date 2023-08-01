@@ -10,7 +10,7 @@
 
 - `144 Countries` are in both Datasets
  > __Taiwan__ , __Kosovo__ , __Hong Kong__ , __Palestine__ , __North Cyprus__ are in `WHR`, `WHR2021` but not in `Suicidal` Dataset
-
+![Regions involved in Analytics](4_Extracted_Figures/Observation_Percentages_of_Regions.png)
 ## Six Factors Happiness Report
 `Income, health, having someone to count on, having a sense of freedom to make key life decisions, generosity, and the absence of corruption all play strong roles in supporting life evaluations.`
 
